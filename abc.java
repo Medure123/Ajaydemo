@@ -10,7 +10,7 @@ class CheckEvenOdd
     //The input provided by user is stored in num
     Scanner input = new Scanner(System.in);
     num = input.nextInt();
-123
+12345678901234567890
     /* If number is divisible by 2 then it's an even number
      * else odd number*/
     if ( num % 2 == 0 )
